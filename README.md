@@ -9,4 +9,4 @@
 <p>2) CSS</p>
 <p>3) JAVASCRIPT</p>
 <p>4) Local Storage</p>
-<img src="https://github.com/Ajinkya6898/Todo-List/blob/main/Img/Todo-list.PNG" alt="">
+<img src="https://github.com/Ajinkya6898/Todo-List/blob/main/Img/todo.PNG" alt="">
